@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/9Yrnii0.png"></img>
+  <img src="https://github.com/blandoncj/blandoncj/blob/main/banner.png"></img>
 </p>
 
 ```python
