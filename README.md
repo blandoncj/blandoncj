@@ -15,7 +15,7 @@ class Blandoncj(SoftwareEngineer):
     }
 
   def __str__(self):
-    return f'{self.name} ({self.username}) - Skills: {", ".join(self.skills.keys())}'
+    return f'{self.name} ({self.username})'
 
 if __name__ =='__main__':
   me = Blandoncj()
