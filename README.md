@@ -1,23 +1,10 @@
+<h1 align="center">Hi, I'm Jacobo 👋🏻</h1>
+
 <p align="center">
-  <img src="https://github.com/blandoncj/blandoncj/blob/main/banner.png"></img>
+  Colombian 🇨🇴 Software Engineering Student 👨‍💻, passionate about technology and Sports ⚽. I enjoy full stack development and exploring new technologies.
 </p>
 
-```python
-class Blandoncj(SoftwareEngineer):
-  def __init__(self):
-    self.username = 'blandoncj'
-    self.name = 'Jacobo Blandón'
-    self.skills = {
-      'frontend': ['HTML', 'CSS', 'Bootstrap', 'Tailwind', 'JavaScript', 'ReactJS'],
-      'backend': ['Java', 'Python', 'Flask', 'Django', 'NodeJS'],
-      'database': ['MariaDB/MySQL', 'SQLite3', 'PostgreSQL'],
-      'tools': ['Git', 'GitHub', 'VSCode', 'Postman', 'Bash']
-    }
-
-  def __str__(self):
-    return f'{self.name} ({self.username})'
-
-if __name__ =='__main__':
-  me = Blandoncj()
-  print(me)
-```
+<p align="center">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=blandoncj&show_icons=true&hide_border=true&hide=issues,contribs&theme=tokyonight&bg_color=00000000&count_private=true" />
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blandoncj&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" />
+</p>
