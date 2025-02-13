@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jacobo 👋🏻</h1>
 
 <p align="center">
-  Colombian 🇨🇴 Software Engineering Student 👨‍💻, passionate about technology and Sports ⚽. I enjoy full stack development and exploring new technologies.
+  Colombian 🇨🇴 Software Engineering Student 👨🏻‍💻, passionate about technology and Sports ⚽. I enjoy full stack development and exploring new technologies.
 </p>
 
 <p align="center">
