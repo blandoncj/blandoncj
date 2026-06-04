@@ -15,6 +15,7 @@
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss&logoColor=fff)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=fff)
