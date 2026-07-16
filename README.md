@@ -18,6 +18,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss&logoColor=fff)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=fff)
 
